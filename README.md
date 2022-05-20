@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning App Dev
 - 💞️ I’m looking to collaborate on Web Dev and 3D Modelling
 - 📫 1st Year undergrad student at DTU
+# anurag Kamra
 
 <!---
 TeqArine/TeqArine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
